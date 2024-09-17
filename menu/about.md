@@ -14,13 +14,13 @@
 
 # Tool
 
-1. Java
+- Java
 
-2. Python, Django
+- Python, Django
 
-3. Html, Css, Js
+- Html, Css, Js
 
-4. R
+- R
 
 # 프로젝트
 
