@@ -1,6 +1,7 @@
 # about
 
 변희재(Heyaaz)
+
 1999.01.30 ~
 
 * 난우초등학교 졸업
@@ -11,10 +12,8 @@
 # 사용 가능 Tool
 
 1. Java
-    1. Spring
-    2. SpringBoot
 
-2. django
+2. Python, Django
 
 3. Html, Css, Js
 
